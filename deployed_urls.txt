@@ -1,0 +1,2 @@
+frontend_deployed_url = https://vectorshift-assignment-frontend-6wrr.onrender.com/
+backend_deployed_url = https://vectorshift-assignment-backend-3r7p.onrender.com/
